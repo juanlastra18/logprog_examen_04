@@ -1,0 +1,13 @@
+Universidad Pontificia Bolivariana
+Programa de Ingeniería en Ciencia de Datos
+Curso de Lógica de Programación - Python
+NRC: 25579, 20064 – Periodo 202510
+Docente: Juan Darío Rodas - juand.rodasm@upb.edu.co
+
+
+-- ============================================================ --
+-- Marca de recepción de examen No. 4
+-- Hasta este punto se considera entrega del examen
+-- Cualquier modificación posterior no será tenida en cuenta
+-- ============================================================ --
+
